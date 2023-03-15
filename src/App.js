@@ -1,8 +1,8 @@
 import React from "react";
-import AuthorInput from "./features/books/AuthorInput";
-import Authors from "./features/books/Authors";
-import BookInput from "./features/books/BookInput";
-import Books from "./features/books/Books";
+import AuthorInput from "./features/features/AuthorInput";
+import Authors from "./features/features/Authors";
+import BookInput from "./features/features/BookInput";
+import Books from "./features/features/Books";
 
 function App() {
   return (
